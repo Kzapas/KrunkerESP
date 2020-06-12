@@ -7,10 +7,11 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 # Once TamperMonkey is Installed
 
-Locate the tamper Monkey New UserScripts Page **Here>>** 
+Locate the tamper Monkey New UserScripts Page 
+
 ***Copy and paste this URL into search bar once TamperMonkey Extension is installed***
 
-chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor 
+**>>** chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor **<<**
 
 ***Delete Everything thats there and copy and paste in the code from my Javascript file on the github page.***
 
