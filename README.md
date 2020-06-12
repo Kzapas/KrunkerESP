@@ -7,7 +7,8 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 
 # Once TamperMonkey is Installed
 
-Locate the tamper Monkey New UserScripts Page**Here>>** chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
+Locate the tamper Monkey New UserScripts Page **Here>>** 
+chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
 ***Delete Everything thats there and copy and paste in the code from my Javascript file on the github page.
 
 # If you do everything correctly you'll have working Esp for Krunker.io
