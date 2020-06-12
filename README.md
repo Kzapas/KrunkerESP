@@ -1,5 +1,5 @@
-# Krunkerio ESP hack for 2.5.0+
-ESP hack for Krunkerio Working on 2.5.0+ (I update this) 
+# Krunkerio ESP Wallhack hack for 2.5.0+
+ESP hack Wallhack Cheats for Krunkerio Working on 2.5.0+ (I update this) 
 
 # TamperMonkey Chrome Extension Require
 **Link to TamperMonkey Download**
