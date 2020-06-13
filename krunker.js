@@ -9,7 +9,7 @@
 // @icon         https://www.google.com/s2/favicons?domain=krunker.io
 // @grant        none
 // ==/UserScript==
-//Hub change
+//KRHUB
 document.title = "clu3bots ESP Krunker";
 document.getElementById("instructions").style.color = "Red";
 document.getElementById("instructions").innerHTML = 'Things made easy with clu3bots ESP';
@@ -19,13 +19,13 @@ document.getElementById("modVote").style.color = "Green";
 document.getElementById("texts3DHolder").innerHTML = 'Follow My Github for more @clu3bot';
 // Adblock
 document.getElementById("krunkerio_728x90_1").remove();
-// Checkboxes
+//Box with link to github page
 
 document.getElementById("subLogoButtons").innerHTML = '<div class="button small buttonP" id="menuBtnHost" onmouseenter="playTick()" onclick="openHostWindow()">Host Game</div><div class="button small buttonR" id="menuBtnBrowser" onmouseenter="playTick()" onclick="showWindow(2)">Server Browser</div><div id="inviteButton" class="button small" onmouseenter="playTick()" onclick="copyInviteLink()">Invite</div><div class="button small" id="menuBtnJoin" onmouseenter="playTick()" onclick="showWindow(24)">Join</div><div class="button small buttonP" id="" onmouseenter="playTick()" onclick="window.open(\'https://github.com/clu3bot\', \'_blank\', \'location=yes,height=570,width=520,scrollbars=yes,status=yes\');">clu3bot Github</div></div>';
 document.getElementById("aContainer").style.color = "white";
-// Font size
+// 
 document.getElementById("aContainer").style.fontSize = "larger";
-// AimDot change
+// Rectical
     (function() {
     'use strict';
     window.addEventListener('load', function() {
@@ -36,6 +36,7 @@ document.getElementById("aContainer").style.fontSize = "larger";
         } catch (e) { }
     });
 })();
+// Esp
 (function() {
 'use strict';
 let initialize = function(data) {
