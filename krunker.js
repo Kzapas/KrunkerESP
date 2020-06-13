@@ -20,7 +20,6 @@ document.getElementById("texts3DHolder").innerHTML = 'Follow My Github for more 
 // Adblock
 document.getElementById("krunkerio_728x90_1").remove();
 //Box with link to github page
-
 document.getElementById("subLogoButtons").innerHTML = '<div class="button small buttonP" id="menuBtnHost" onmouseenter="playTick()" onclick="openHostWindow()">Host Game</div><div class="button small buttonR" id="menuBtnBrowser" onmouseenter="playTick()" onclick="showWindow(2)">Server Browser</div><div id="inviteButton" class="button small" onmouseenter="playTick()" onclick="copyInviteLink()">Invite</div><div class="button small" id="menuBtnJoin" onmouseenter="playTick()" onclick="showWindow(24)">Join</div><div class="button small buttonP" id="" onmouseenter="playTick()" onclick="window.open(\'https://github.com/clu3bot\', \'_blank\', \'location=yes,height=570,width=520,scrollbars=yes,status=yes\');">clu3bot Github</div></div>';
 document.getElementById("aContainer").style.color = "white";
 // 
