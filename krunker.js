@@ -22,17 +22,6 @@ document.getElementById("subLogoButtons").innerHTML = '<div class="button small 
 document.getElementById("aContainer").style.color = "white";
 // 
 document.getElementById("aContainer").style.fontSize = "larger";
-// Rectical
-    (function() {
-    'use strict';
-    window.addEventListener('load', function() {
-        try {
-            var d = document.createElement('div');
-            d.style.cssText = 'width:8px;height:8px;background-color:#FF0000;position:absolute;margin:auto;top:0;right:0;bottom:0;left:0;z-index:200;border-radius:4px';
-            document.body.appendChild(d);
-        } catch (e) { }
-    });
-})();
 // Esp
 (function() { 'use strict';
 let initialize = function(data) {
@@ -54,4 +43,14 @@ initialize(data); }
 return data; }})();
 // Adblock
 document.getElementById("krunkerio_728x90_1").remove();
-
+// Rectical
+    (function() {
+    'use strict';
+    window.addEventListener('load', function() {
+        try {
+            var d = document.createElement('div');
+            d.style.cssText = 'width:8px;height:8px;background-color:#FF0000;position:absolute;margin:auto;top:0;right:0;bottom:0;left:0;z-index:200;border-radius:4px';
+            document.body.appendChild(d);
+        } catch (e) { }
+    });
+})();
