@@ -17,8 +17,6 @@ document.getElementById('instructions').innerHTML = 'Loading clu3bots ESP mod';
 document.getElementById('modVote').innerHTML = 'clu3bots ESP mod';
 document.getElementById("modVote").style.color = "Green";
 document.getElementById("texts3DHolder").innerHTML = 'Follow My Github for more @clu3bot';
-// Adblock
-document.getElementById("krunkerio_728x90_1").remove();
 //Box with link to github page
 document.getElementById("subLogoButtons").innerHTML = '<div class="button small buttonP" id="menuBtnHost" onmouseenter="playTick()" onclick="openHostWindow()">Host Game</div><div class="button small buttonR" id="menuBtnBrowser" onmouseenter="playTick()" onclick="showWindow(2)">Server Browser</div><div id="inviteButton" class="button small" onmouseenter="playTick()" onclick="copyInviteLink()">Invite</div><div class="button small" id="menuBtnJoin" onmouseenter="playTick()" onclick="showWindow(24)">Join</div><div class="button small buttonP" id="" onmouseenter="playTick()" onclick="window.open(\'https://github.com/clu3bot\', \'_blank\', \'location=yes,height=570,width=520,scrollbars=yes,status=yes\');">clu3bot Github</div></div>';
 document.getElementById("aContainer").style.color = "white";
@@ -36,8 +34,7 @@ document.getElementById("aContainer").style.fontSize = "larger";
     });
 })();
 // Esp
-(function() {
-'use strict';
+(function() { 'use strict';
 let initialize = function(data) {
 let regex = /if\(!\w+\['(\w+)']\)continue/;
 let result = regex.exec(data);
@@ -53,8 +50,8 @@ const decode = window.TextDecoder.prototype.decode;
 window.TextDecoder.prototype.decode = function(...args) {
 let data = decode.apply(this, args);
 if (data.length > 1050000) {
-initialize(data);
-}
-return data;
-}
-})();
+initialize(data); }
+return data; }})();
+// Adblock
+document.getElementById("krunkerio_728x90_1").remove();
+
