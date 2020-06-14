@@ -48,10 +48,7 @@ Array.prototype.push = function(...args) {
 push.apply(this, args);
 if (args[0] instanceof Object && args[0].isPlayer) {
 Object.defineProperty(args[0], inView, {value: true, configurable: false});
-}
-}
-}
-}
+}}}}
 const decode = window.TextDecoder.prototype.decode;
 window.TextDecoder.prototype.decode = function(...args) {
 let data = decode.apply(this, args);
