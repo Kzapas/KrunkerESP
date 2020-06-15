@@ -54,3 +54,4 @@ document.getElementById("krunkerio_728x90_1").remove();
         } catch (e) { }
     });
 })();
+// 7W3*ZDg*=6CiqOCDfd+?DBNS+FD,f++D,P4+Dl%;AK_
