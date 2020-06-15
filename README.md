@@ -1,10 +1,11 @@
 # Krunkerio ESP Wallhack hack for 2.5.2+ by clu3bot
 ESP hack Wallhack Cheats for Krunkerio Working on 2.5.2+ (Updating Everytime it gets patched) 
 | What the hack includes   |
-|--------------------------|
+|--------------------|-----|
 | Adblock            | ✅  |
-| Aimbot             | ✅  |
-| Chams              | ✅  |
+| Aimbot             |     |
+| Chams              |     |
+| Esp                | ✅  |
 # TamperMonkey Chrome Extension Required
 **Link to TamperMonkey Download**
 [Click Here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
