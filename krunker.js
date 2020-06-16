@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ESP & adblock by clu3bot
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.3
 // @description  "ESP mod for krunker.io"
 // @author       clu3bot
 // @downloadURL  https://github.com/clu3bot
