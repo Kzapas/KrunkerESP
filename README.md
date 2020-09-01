@@ -1,4 +1,4 @@
-# Krunkerio ESP Wallhack hack for 2.5.8+ by clu3bot
+# Krunkerio ESP Wallhack hack for 2.5.8+ by clu3bot (OutDated Not updating)
 ESP hack Wallhack Cheats for Krunkerio Working on 2.5.8+ (Updating Everytime it gets patched) 
 | What the hack includes|   |
 |--------------------|-----|
