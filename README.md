@@ -1,5 +1,5 @@
 # Krunkerio ESP Wallhack hack for 2.5.8+ by clu3bot (OutDated Not updating)
-ESP hack Wallhack Cheats for Krunkerio Working on 2.5.8+ (Updating Everytime it gets patched) 
+ESP hack Wallhack Cheats for Krunkerio Working on 2.5.8+  
 | What the hack includes|   |
 |--------------------|-----|
 | Adblock            |✅  |
